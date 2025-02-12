@@ -1,4 +1,4 @@
-Hello! I am a PhD Student in Civil and Environmental Engineering studying aerosol-cloud interactions in the [Gordon Group] (https://www.cheme.engineering.cmu.edu/research-groups/gordon-group.html). My work primarily involves improving the cloud microphysics scheme in the UK Met Office Unified Model. Additionally, I work on refining remote sensing algorithms/maskings for cloud droplet retrievals.
+Hello! I am a PhD Student in Civil and Environmental Engineering studying aerosol-cloud interactions in the [Gordon Group](https://www.cheme.engineering.cmu.edu/research-groups/gordon-group.html). My work primarily involves improving the cloud microphysics scheme in the UK Met Office Unified Model. Additionally, I work on refining remote sensing algorithms/maskings for cloud droplet retrievals.
 
 <!--
 **noahasch/noahasch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
